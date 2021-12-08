@@ -1,0 +1,22 @@
+PODS:
+  - documents_picker (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - documents_picker (from `.symlinks/plugins/documents_picker/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  documents_picker:
+    :path: ".symlinks/plugins/documents_picker/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  documents_picker: 5af54172fc411009a331391a6264987a852fcef8
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: 1e5af4103afd21ca5ead147d7b81d06f494f51a2
+
+COCOAPODS: 1.7.5

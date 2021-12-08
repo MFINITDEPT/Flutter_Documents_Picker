@@ -1,0 +1,21 @@
+name: documents_picker
+description: Simple way to get documents from local storage or ICloud(For IOS).
+version: 1.0.0
+author: Lucas Britto <l_demello@hotmail.com>
+homepage: https://github.com/lubritto/Flutter_Documents_Picker
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.example.documentspicker
+    pluginClass: DocumentsPickerPlugin
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
